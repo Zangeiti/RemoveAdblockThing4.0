@@ -24,7 +24,7 @@
     const removePopup = false;
 
     // Checks for updates (Removes the popup)
-    const updateCheck = true;
+    const updateCheck = false;
 
     // Enable debug messages into the console
     const debugMessages = true;
